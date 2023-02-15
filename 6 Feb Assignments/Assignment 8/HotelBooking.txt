@@ -1,0 +1,39 @@
+<html>
+<head><title></title></head>
+<body>
+<div style="text-align: center">
+<figure>
+<img src="pic-1.jpg" height="90" weight="90">
+<figcaption>Nature In Indonesia</figcaption>
+<p>
+Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, 
+it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, 
+built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to
+ the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry.
+ Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, 
+it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, 
+built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to
+ the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry.
+</p>
+<figure>
+</div>
+<div style="text-align: center">
+<figure>
+<img src="pic-2.jpg" height="100" weight="100">
+<figcaption>Nature In London</figcaption>
+<figure>
+</div>
+<div style="text-align: center">
+<figure>
+<img src="pic-3.jpg" height="105" weight="105">
+<figcaption>Nature In China</figcaption>
+<figure>
+</div>
+<div style="text-align: center">
+<figure>
+<img src="pic-4.jpg" height="90" weight="90">
+<figcaption>Nature In Iceland</figcaption>
+<figure>
+</div>
+</body>
+</html>

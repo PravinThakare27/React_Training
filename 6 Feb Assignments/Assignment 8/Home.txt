@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>
+</title>
+</head>
+<body>
+<ol>
+<nav>  
+    <a href="#">Home</a>  
+    <a href="#">Tour Sites</a>  
+    <a href="#">Hotel Booking</a>   
+    <a href="#">Gallary</a>   
+ </nav> 
+</body>
+</html>
